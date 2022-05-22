@@ -1,6 +1,6 @@
 # **Takım İsmi**
 
-Takım X
+Takım 81
 
 # Ürün İle İlgili Bilgiler
 
@@ -12,7 +12,7 @@ Takım X
 
 ## Ürün İsmi
 
---Movie App--
+--FitKal--
 
 ## Ürün Açıklaması
 
@@ -71,7 +71,7 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
   - Unit test'ler için ayrılan efor/saat arttırılmalı 
 
 -**Diğer Notlar**:
-- N/A
+-
 
 ---
 
