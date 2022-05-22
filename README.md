@@ -71,7 +71,10 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
   - Unit test'ler için ayrılan efor/saat arttırılmalı 
 
 -**Diğer Notlar**:
--
+- Katılımcılar:
+- Ömer Furkan Çabuk
+- Su Kelleoğlu
+- Bayram Sarı
 
 ---
 
